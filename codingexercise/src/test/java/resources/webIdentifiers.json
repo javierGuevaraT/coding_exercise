@@ -1,0 +1,21 @@
+{
+	"HomePageIntersys": {
+		"magnifyingGlassButton": "searchToggle",
+		"searchTextField": "//INPUT[@title='Search for:']",
+		"searchButton": "//BUTTON[@type='submit']"
+	},
+	"SearchPageIntersys": {
+		"companyLinkFooter": "menu-footer-menu"
+	},
+	"LoginPageFacebook": {
+		"emailTextField": "email",
+		"passwordTextField": "pass",
+		"loginButton": "//LABEL[@id='loginbutton']/INPUT"
+	},
+	"BadLoginPageFacebook": {
+		"notYouLink": "not_me_link"
+	},
+	"JustLoginPageFacebook": {
+		"loginLabel" : "//DIV[@id='header_block']/SPAN"
+	}
+}
